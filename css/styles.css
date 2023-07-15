@@ -95,6 +95,11 @@ address {
   cursor: pointer;
 }
 
+.service-btn:hover,
+.service-btn:focus {
+  background-color: #404bbf;
+}
+
 .service-order {
   background-color: #2e2f42;
 }
@@ -132,6 +137,7 @@ address {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .team-front {
