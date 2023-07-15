@@ -168,6 +168,7 @@ address {
 
 .service-links-list .service-button {
   color: #4d5ae5;
+  background-color: #f4f4fd;
   font-family: inherit;
   font-size: 16px;
   font-weight: 500;
@@ -179,7 +180,7 @@ address {
 .service-links-list .service-button:hover,
 .service-links-list .service-button:focus {
   color: #fff;
-  background-color: #f4f4fd;
+  background-color: #404bbf;
 }
 
 .service-title {
